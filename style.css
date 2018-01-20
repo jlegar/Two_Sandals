@@ -1,6 +1,24 @@
 p {
   font-family: sans-serif;
 }
+
+h1 {
+  font-family: Stencil Std, fantasy;
+}
+
 h2 {
   color: Olive;
+}
+
+ol {
+  font-family: Marker Felt;
+}
+
+.uppercase{
+  text-transform: uppercase;
+}
+
+#main-title{
+  font-family: cursive;
+  text-transform: capitalize;
 }
