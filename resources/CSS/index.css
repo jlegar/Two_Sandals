@@ -1,24 +1,20 @@
-p {
-  font-family: sans-serif;
+body {
+  font-family: 'Kavivanar', cursive;
 }
 
-h1 {
-  font-family: Stencil Std, fantasy;
+h1,
+h2 {
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 h2 {
   color: Olive;
 }
 
-ol {
-  font-family: Marker Felt;
-}
-
-.uppercase{
+.uppercase {
   text-transform: uppercase;
 }
 
-#main-title{
-  font-family: cursive;
+.capitalize {
   text-transform: capitalize;
 }
